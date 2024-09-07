@@ -1,1 +1,0 @@
-Social Finance Lending Model
