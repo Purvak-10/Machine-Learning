@@ -38,4 +38,4 @@ From above last two plots, we observed that:
 - Voting Classifier
   
 ## Finally
-In the end, we found Voting Classifier is the best algorithm with accurecy score = 97.97 and with f1_score = 98 %
+We found after sampling voting classifier is the best algorithm with accuracy score = 97.97 and with f1_score = 98 %
